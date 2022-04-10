@@ -1,0 +1,15 @@
+{
+  "name": "textra",
+  "version": "1.0.0",
+  "description": "textra",
+  "main": "index.js",
+  "scripts": {
+	"first":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KaniSimeji",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
