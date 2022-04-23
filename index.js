@@ -1,9 +1,9 @@
 'use strict';
 
-const url = 'https://mt-auto-minhon-mlt.ucri.jgn-x.jp';
-const key = '078024d56fefec2af3ea4d0966ad753d06211c54f';
-const secret = '6016c1331a03a3cb712cc3b620ad604f';
-const name = 'kanisimeji';
+const url = '';
+const key = '';
+const secret = '';
+const name = '';
 
 const api_name = 'mt';
 const api_param = 'c-1610_ja_en';
